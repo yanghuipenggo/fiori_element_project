@@ -1,0 +1,33 @@
+{
+  "generationParameters": {
+    "generationDate": "Thu Feb 12 2026 15:07:15 GMT+0800 (China Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "http://sap.goodsap.cn:50000/sap/opu/odata4/sap/zyhp_ui_travel_processos_v4/srvd/sap/zyhp_ui_travel_processos_m/0001/",
+    "appName": "study_fiori01",
+    "appTitle": "Fiori学习01",
+    "appDescription": "Fiori学习01",
+    "appNamespace": "com.yhp.z",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.114.9",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.18.5",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Travel"
+      },
+      {
+        "type": "Navigation Entity",
+        "value": "_Booking"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
